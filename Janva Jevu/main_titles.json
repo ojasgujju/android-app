@@ -46,5 +46,11 @@
         "subtitle": "વૈજ્ઞાનિકો વિષે જાણો",
         "image": "https://cdn.pixabay.com/photo/2020/01/10/05/09/scientist-4754515__340.png",
         "url": "https://github.com/ojasgujju/android-app/raw/main/Janva%20Jevu/scientists.json"
-    },    
+    },
+    {
+        "title": "Quiz",
+        "subtitle": "Play GK Quiz",
+        "image": "https://cdn.pixabay.com/photo/2020/01/10/05/09/scientist-4754515__340.png",
+        "url": "https://github.com/ojasgujju/android-app/raw/main/Janva%20Jevu/polls_data.json"
+    },  
 ]
